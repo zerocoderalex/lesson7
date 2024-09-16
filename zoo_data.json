@@ -1,1 +1,1 @@
-{"animals": [{"name": "Tweety", "age": 2, "type": "Bird"}, {"name": "Lion", "age": 5, "type": "Mammal"}, {"name": "Snake", "age": 3, "type": "Reptile"}], "staff": ["Alice", "Dr. Bob"]}
+{"animals": [{"name": "\u0412\u043e\u0440\u043e\u0431\u0435\u0439", "age": 2, "type": "Bird"}, {"name": "\u041b\u0435\u0432", "age": 5, "type": "Mammal"}, {"name": "\u0417\u043c\u0435\u044f", "age": 3, "type": "Reptile"}], "staff": ["\u0410\u043d\u043d\u0430", "\u0412\u0438\u043a\u0442\u043e\u0440"]}
