@@ -42,6 +42,7 @@ class Zoo:
     def add_staff(self, staff_member):
         self.staff.append(staff_member)
 
+
 # 5. Классы для сотрудников
 class ZooKeeper:
     def __init__(self, name):
@@ -50,12 +51,15 @@ class ZooKeeper:
     def feed_animal(self, animal):
         print(f"{self.name} is feeding {animal.name}.")
 
+
 class Veterinarian:
     def __init__(self, name):
         self.name = name
 
+
     def heal_animal(self, animal):
         print(f"{self.name} is healing {animal.name}.")
+
 
 # 6. Сохранение и загрузка информации о зоопарке
 class Zoo:
